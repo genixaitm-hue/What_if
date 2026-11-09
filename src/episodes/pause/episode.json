@@ -1,0 +1,1068 @@
+{
+ "id": "Pause",
+ "slug": "pause",
+ "topic": "What if you could pause everyone but you?",
+ "title": [
+  "WHAT IF YOU COULD",
+  "PAUSE EVERYONE BUT YOU?"
+ ],
+ "accent": "YOU",
+ "power": {
+  "word": "Pause",
+  "rule": "one tap and everything but you stops — rain, traffic, friends, even light",
+  "look": "a cold PAUSED grade, a blinking PAUSED chip, the world still while Pip moves through it"
+ },
+ "voice": {
+  "id": "TX3LPaxmHKxFdv7VOQHJ",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+   "stability": 0.4,
+   "similarity_boost": 0.8,
+   "style": 0.35,
+   "use_speaker_boost": true
+  }
+ },
+ "script": [
+  {
+   "beat": "1 cold open, demo 1 (small and selfish)",
+   "text": "Dusk rain. Pause. Two hundred drops, frozen. Walk them dry."
+  },
+  {
+   "beat": "1 cold open, demo 2 (useful)",
+   "text": "Football at your face. Pause. Catch it slow."
+  },
+  {
+   "beat": "1 cold open, demo 3 (a little uncanny)",
+   "text": "Mo on his phone. Pause. Steal his snack. He'll never know."
+  },
+  {
+   "beat": "2 the premise (title card)",
+   "text": "What if you could pause everyone but you?"
+  },
+  {
+   "beat": "2 the rule",
+   "text": "One tap. Everyone stops, mid-step, mid-laugh, mid-argument. Except you."
+  },
+  {
+   "beat": "3 the fun part, win 1",
+   "text": "The test you didn't study for? Pause. Twenty minutes of thinking, one school second."
+  },
+  {
+   "beat": "3 the fun part, win 2",
+   "text": "Mum, midsentence, finger up. Grab the toast. Unpause. Normal morning."
+  },
+  {
+   "beat": "3 the fun part, win 3",
+   "text": "Your sister's ice cream, mid-fall. Pause. Catch. Hand it back. Her face: priceless."
+  },
+  {
+   "beat": "3 the fun part, closer",
+   "text": "The world runs on your clock now."
+  },
+  {
+   "beat": "4 the not-so-fun part: the cost, one real fact",
+   "text": "One catch: even light freezes."
+  },
+  {
+   "beat": "4 the fact, worked out on the board",
+   "text": "Light crosses a room in ten nanoseconds. Paused there, it never lands. If your power took the light with everything else, you'd tap, and go blind. That's real."
+  },
+  {
+   "beat": "4 the consequence, on screen",
+   "text": "So your pause keeps one exception: light already inside your eyes."
+  },
+  {
+   "beat": "5 someone powerful notices",
+   "text": "But your rule has a hole. Yesterday, midpause, you weren't alone. A charcoal suit walked between the frozen kids."
+  },
+  {
+   "beat": "5 he sees you",
+   "text": "He stopped. He looked straight at you. Then he checked a stopwatch — like he was timing your taps."
+  },
+  {
+   "beat": "6 family at stake",
+   "text": "Today the corridor pauses, like always. You take your shortcut. Then you see him. Standing at your sister."
+  },
+  {
+   "beat": "6 the detail",
+   "text": "Sis, mid-giggle, frozen. His hand, two steps from her shoulder."
+  },
+  {
+   "beat": "7 the cliffhanger",
+   "text": "You can't run. Unpause, and ten thousand people see him too."
+  },
+  {
+   "beat": "7 the question",
+   "text": "So who else is walking around in your pause? Part 1."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Even light freezes: light crosses a room in ten nanoseconds, so paused in flight it never lands — if the power froze the world's light, you'd go blind in the instant you tap.",
+   "working": "A room is about 3 m across; light moves at c = 299,792,458 m/s, so 3 m / c = 1.00e-8 s = 10 ns. If everything but you stops, photons in flight stop where they are: the last photon that was ever going to reach your eye is already inside it, and none of the frozen ones ever complete the remaining fractions of a millimetre. Sight needs a continuous stream of new photons (daylight puts ~1e14 photos/s on the pupil; the threshold is ~90). So a world-pause that took the light would leave the frozen scene as your final frame. Pip's power must therefore have an unspoken exception: the pause spares light already inside his eyes — which is also why the man in the suit is the scary question in beat 5.",
+   "source": "c = 299,792,458 m/s (BIPM, SI definition); eye photon flux: Hecht, Shlaer & Pirenne 1942 (threshold ~90 photons), typical daylight pupil flux ~1e14 photons/s"
+  },
+  {
+   "claim": "Sound freezes too — paused air can't carry a pressure wave, so inside the pause you'd be deaf as well.",
+   "working": "Sound is molecules handing a push along: a 3 m room at 343 m/s takes ~9 ms. Frozen molecules pass nothing on, so the pause is total silence from the first instant — and no wind, no draft, no echo while it holds.",
+   "source": "Speed of sound in air, 343 m/s at 20 C (standard acoustics reference)"
+  },
+  {
+   "claim": "'Twenty minutes of thinking, one school second': your own time keeps running inside the pause while the world doesn't spend any.",
+   "working": "The pause exempts you, so your clock — including your reaction and thought time — runs on while everyone else's is suspended. Twenty minutes of your private time passes in a school second for everyone else; the school day never loses a second.",
+   "source": "arithmetic on the power's stated rule ('everyone but you')"
+  }
+ ],
+ "cast": [
+  "pipHood",
+  "mo",
+  "sis"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop (rain falling)",
+   "key": 12,
+   "note": "dusk rain over the city, Pip hurries under his hoodie"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "set": "rooftop (rain)",
+   "key": 8,
+   "note": "a drop hangs huge in the beam; the rain is frozen mid-air"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "rooftop (rain)",
+   "key": 14,
+   "note": "he weaves between the hanging drops, dry; a drop passes his shoulder"
+  },
+  {
+   "id": "S4",
+   "size": "wide, low",
+   "set": "stairwell",
+   "key": 16,
+   "note": "the football flies at him down the stairs, thrown from above"
+  },
+  {
+   "id": "S5",
+   "size": "macro insert",
+   "set": "stairwell (face height)",
+   "key": 10,
+   "note": "the ball frozen a finger from his nose, his mitten rising"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "stairwell",
+   "key": 20,
+   "note": "he takes the ball off the air slowly, smug"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "stairwell (upper landing)",
+   "key": 24,
+   "note": "Mo on the landing by the lit door, phone giggle, snack in hand"
+  },
+  {
+   "id": "S8",
+   "size": "macro insert",
+   "set": "stairwell (landing)",
+   "key": 12,
+   "note": "the snack slides out of Mo's frozen hand"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "set": "stairwell (landing)",
+   "key": 24,
+   "note": "Pip pockets it and walks past frozen Mo, glance at us"
+  },
+  {
+   "id": "S10",
+   "size": "title, wide",
+   "set": "rooftop",
+   "key": 44,
+   "note": "the premise over the city at dusk, a few drops still hung"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "classroom",
+   "key": 20,
+   "note": "Pip mid-tap, the class milling behind him: two fingers, one press"
+  },
+  {
+   "id": "S12",
+   "size": "wide, flash freeze",
+   "set": "classroom",
+   "key": 26,
+   "note": "the class locks mid-motion: frozen papers, frozen laughter"
+  },
+  {
+   "id": "S13",
+   "size": "high angle wide",
+   "set": "classroom",
+   "key": 30,
+   "note": "mid-step, mid-laugh, mid-argument: three frozen groups across the rows"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "classroom (hero desk)",
+   "key": 30,
+   "note": "Pip strolls between them, unbothered, to his marked test"
+  },
+  {
+   "id": "S15",
+   "size": "top-down insert",
+   "set": "classroom (desk top)",
+   "key": 14,
+   "note": "the test tagged 3/20, the clock hand stopped mid-second"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "classroom",
+   "key": 44,
+   "note": "twenty minutes inside one school second: he thinks, dust hangs"
+  },
+  {
+   "id": "S17",
+   "size": "medium two-shot",
+   "set": "kitchen",
+   "key": 24,
+   "note": "mum frozen mid-scold, finger up; the toast leaps frozen from the toaster"
+  },
+  {
+   "id": "S18",
+   "size": "macro insert",
+   "set": "kitchen (worktop)",
+   "key": 12,
+   "note": "his mitten pinches the frozen toast slice out of the air"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 40,
+   "note": "unpause: mum's finger finishes its wag, Pip strolls out munching"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 26,
+   "note": "sis gasps at her ice cream, the scoop tilting off the cone"
+  },
+  {
+   "id": "S21",
+   "size": "top-down macro insert",
+   "set": "kitchen (island top)",
+   "key": 10,
+   "note": "the scoop frozen a hand's width above the worktop"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 40,
+   "note": "he sets the scoop back, returns the cone, shrugs at us"
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "sis, beaming up at the camera, ice cream safe"
+  },
+  {
+   "id": "S24",
+   "size": "wide, low angle",
+   "set": "rooftop",
+   "key": 40,
+   "note": "the frozen city below: no bird, no blink, one string light mid-sway"
+  },
+  {
+   "id": "S25",
+   "size": "medium, slow push",
+   "set": "rooftop",
+   "key": 24,
+   "note": "one catch: his smile drops, the light dims on his face"
+  },
+  {
+   "id": "S26",
+   "size": "schematic, side view",
+   "set": "schematic",
+   "key": 50,
+   "note": "light crossing a 3 m room, 10 ns counting up"
+  },
+  {
+   "id": "S27",
+   "size": "schematic, macro on the ray",
+   "set": "schematic",
+   "key": 90,
+   "note": "paused there, it never lands; an eye icons and an X: blind"
+  },
+  {
+   "id": "S28",
+   "size": "extreme close-up, dark",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Pip's eyes in near dark: that's real"
+  },
+  {
+   "id": "S29",
+   "size": "schematic, eye panel",
+   "set": "schematic",
+   "key": 80,
+   "note": "the exception: light already inside your eyes, kept"
+  },
+  {
+   "id": "S30",
+   "size": "medium",
+   "set": "classroom (corridor end)",
+   "key": 26,
+   "note": "a second figure mid-stride at the frame edge where nobody should move"
+  },
+  {
+   "id": "S31",
+   "size": "wide, high",
+   "set": "classroom",
+   "key": 46,
+   "note": "yesterday: the frozen rows, and the charcoal suit walking between them"
+  },
+  {
+   "id": "S32",
+   "size": "medium",
+   "set": "classroom",
+   "key": 40,
+   "note": "closer: the suit mid-stride, kids frozen either side"
+  },
+  {
+   "id": "S33",
+   "size": "close-up",
+   "set": "classroom",
+   "key": 34,
+   "note": "his head turns, eyes straight at us"
+  },
+  {
+   "id": "S34",
+   "size": "macro insert",
+   "set": "classroom",
+   "key": 30,
+   "note": "a stopwatch in a gloved hand, the needle ticking round"
+  },
+  {
+   "id": "S35",
+   "size": "medium",
+   "set": "classroom (door)",
+   "key": 26,
+   "note": "today, sis waves at the door; the freeze lands mid-wave"
+  },
+  {
+   "id": "S36",
+   "size": "wide, camera follows",
+   "set": "classroom",
+   "key": 50,
+   "note": "his usual shortcut down the frozen aisle"
+  },
+  {
+   "id": "S37",
+   "size": "wide, deep, high",
+   "set": "classroom (corridor end)",
+   "key": 60,
+   "note": "far down the rows: the suit, standing at frozen sis"
+  },
+  {
+   "id": "S38",
+   "size": "close-up",
+   "set": "classroom",
+   "key": 26,
+   "note": "sis, mid-giggle, frozen; nothing about her knows"
+  },
+  {
+   "id": "S39",
+   "size": "macro insert",
+   "set": "classroom",
+   "key": 16,
+   "note": "a gloved hand, two steps from her shoulder"
+  },
+  {
+   "id": "S40",
+   "size": "medium, low angle",
+   "set": "classroom (door)",
+   "key": 18,
+   "note": "Pip backed against the doorframe, eyes flick for a way out"
+  },
+  {
+   "id": "S41",
+   "size": "wide, flash",
+   "set": "classroom",
+   "key": 34,
+   "note": "he almost unpauses: a white flash over the frozen crowd, and he stays put"
+  },
+  {
+   "id": "S42",
+   "size": "extreme close-up, push in",
+   "set": "classroom",
+   "key": 70,
+   "note": "his eyes, the question landing: who else is in your pause?"
+  },
+  {
+   "id": "S43",
+   "size": "end card",
+   "set": "black",
+   "key": 40,
+   "note": "PART 1, the pause icon ticking"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Pause",
+   "look": "pause"
+  },
+  {
+   "shot": "S3",
+   "at": "Walk",
+   "look": "pause"
+  },
+  {
+   "shot": "S4",
+   "at": "Football"
+  },
+  {
+   "shot": "S5",
+   "at": "Pause",
+   "look": "pause"
+  },
+  {
+   "shot": "S6",
+   "at": "Catch",
+   "look": "pause"
+  },
+  {
+   "shot": "S7",
+   "at": "Mo"
+  },
+  {
+   "shot": "S8",
+   "at": "Pause",
+   "look": "pause"
+  },
+  {
+   "shot": "S9",
+   "at": "Steal",
+   "look": "pause"
+  },
+  {
+   "shot": "S10",
+   "at": "What"
+  },
+  {
+   "shot": "S11",
+   "at": "One"
+  },
+  {
+   "shot": "S12",
+   "at": "Everyone",
+   "look": "pause"
+  },
+  {
+   "shot": "S13",
+   "at": "mid",
+   "look": "pause"
+  },
+  {
+   "shot": "S14",
+   "at": "Except",
+   "look": "pause"
+  },
+  {
+   "shot": "S15",
+   "at": "Pause",
+   "look": "pause"
+  },
+  {
+   "shot": "S16",
+   "at": "Twenty",
+   "look": "pause"
+  },
+  {
+   "shot": "S17",
+   "at": "Mum",
+   "look": "pause"
+  },
+  {
+   "shot": "S18",
+   "at": "Grab",
+   "look": "pause"
+  },
+  {
+   "shot": "S19",
+   "at": "Unpause"
+  },
+  {
+   "shot": "S20",
+   "at": "Your"
+  },
+  {
+   "shot": "S21",
+   "at": "Pause",
+   "look": "pause"
+  },
+  {
+   "shot": "S22",
+   "at": "Catch",
+   "look": "pause"
+  },
+  {
+   "shot": "S23",
+   "at": "Her",
+   "look": "pause"
+  },
+  {
+   "shot": "S24",
+   "at": "The",
+   "look": "pause"
+  },
+  {
+   "shot": "S25",
+   "at": "One",
+   "look": "pause"
+  },
+  {
+   "shot": "S26",
+   "at": "Light#2"
+  },
+  {
+   "shot": "S27",
+   "at": "Paused"
+  },
+  {
+   "shot": "S28",
+   "at": "That's"
+  },
+  {
+   "shot": "S29",
+   "at": "So"
+  },
+  {
+   "shot": "S30",
+   "at": "But",
+   "look": "pause"
+  },
+  {
+   "shot": "S31",
+   "at": "Yesterday",
+   "look": "pause"
+  },
+  {
+   "shot": "S32",
+   "at": "A",
+   "look": "pause"
+  },
+  {
+   "shot": "S33",
+   "at": "He",
+   "look": "pause"
+  },
+  {
+   "shot": "S34",
+   "at": "Then",
+   "look": "pause"
+  },
+  {
+   "shot": "S35",
+   "at": "Today"
+  },
+  {
+   "shot": "S35",
+   "at": "pauses",
+   "from": 28,
+   "look": "pause"
+  },
+  {
+   "shot": "S36",
+   "at": "You",
+   "look": "pause"
+  },
+  {
+   "shot": "S37",
+   "at": "Standing",
+   "look": "pause"
+  },
+  {
+   "shot": "S38",
+   "at": "Sis",
+   "look": "pause"
+  },
+  {
+   "shot": "S39",
+   "at": "His",
+   "look": "pause"
+  },
+  {
+   "shot": "S40",
+   "at": "You",
+   "look": "pause"
+  },
+  {
+   "shot": "S41",
+   "at": "Unpause",
+   "look": "pause"
+  },
+  {
+   "shot": "S42",
+   "at": "So",
+   "look": "pause"
+  },
+  {
+   "shot": "S43",
+   "at": "Part"
+  }
+ ],
+ "end": "1+42",
+ "fx": [
+  {
+   "at": "S2+0",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5
+  },
+  {
+   "at": "S5+0",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5
+  },
+  {
+   "at": "S8+0",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.45
+  },
+  {
+   "at": "S10+0",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.6
+  },
+  {
+   "at": "S12+0",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.55
+  },
+  {
+   "at": "S15+0",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.45
+  },
+  {
+   "at": "S21+0",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5
+  },
+  {
+   "at": "S25+0",
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.3
+  },
+  {
+   "at": "S35#2+0",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5
+  },
+  {
+   "at": "S41+0",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.9
+  },
+  {
+   "at": "S41+0",
+   "kind": "shake",
+   "len": 12,
+   "amp": 14
+  }
+ ],
+ "gaps": {
+  "word": 0.14,
+  "comma": 0.26,
+  "sentence": 0.48,
+  "question": 0.72,
+  "pairs": {
+   "dry|Football": 0.45,
+   "slow|Mo": 0.4,
+   "know|What": 0.65,
+   "you|One": 0.4,
+   "you|The": 0.4,
+   "second|Mum": 0.4,
+   "morning|Your": 0.4,
+   "priceless|The": 0.5,
+   "now|One": 0.6,
+   "blind|That's": 0.5,
+   "real|So": 0.5,
+   "eyes|But": 0.55,
+   "alone|A": 0.3,
+   "kids|He": 0.4,
+   "taps|Today": 0.55,
+   "sister|Sis": 0.4,
+   "shoulder|You": 0.5,
+   "too|So": 0.45,
+   "Unpause|Normal": 0.35,
+   "pause|Part": 0.65
+  }
+ },
+ "tail": 1.4,
+ "fps": 30,
+ "sound": {
+  "clips": {
+   "freeze": [
+    "one soft pluck note abruptly pitching down like a tape stopping, halting into a held still silence, time freezing, clean, no voices",
+    1.0
+   ],
+   "unpause": [
+    "a short reverse tape stop, a soft note swirling up from stillness into a quick bright whoosh, time resuming, clean, no voices",
+    0.7
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ]
+  },
+  "events": [
+   [
+    "S1+2",
+    "roof_wind",
+    0.2,
+    "onset",
+    "S4"
+   ],
+   [
+    "S2+3",
+    "freeze",
+    0.45
+   ],
+   [
+    "S3+12",
+    "step",
+    0.3
+   ],
+   [
+    "S3+27",
+    "step",
+    0.26
+   ],
+   [
+    "S4+2",
+    "room_tone",
+    0.18,
+    "onset",
+    "S10"
+   ],
+   [
+    "S4+8",
+    "fall_whoosh",
+    0.4,
+    "peak"
+   ],
+   [
+    "S5+4",
+    "freeze",
+    0.32
+   ],
+   [
+    "S6+20",
+    "catch",
+    0.22
+   ],
+   [
+    "S7+10",
+    "step",
+    0.24
+   ],
+   [
+    "S8+2",
+    "freeze",
+    0.28
+   ],
+   [
+    "S8+18",
+    "pop",
+    0.3
+   ],
+   [
+    "S9+38",
+    "cookie_crunch",
+    0.32
+   ],
+   [
+    "S10+2",
+    "title_boom",
+    0.75,
+    "peak"
+   ],
+   [
+    "S11+2",
+    "class_murmur",
+    0.2,
+    "onset",
+    "S12"
+   ],
+   [
+    "S11+18",
+    "freeze",
+    0.36
+   ],
+   [
+    "S12+2",
+    "room_tone",
+    0.2,
+    "onset",
+    "S20"
+   ],
+   [
+    "S14+10",
+    "switch_off",
+    0.35
+   ],
+   [
+    "S14+20",
+    "step",
+    0.28
+   ],
+   [
+    "S17+3",
+    "freeze",
+    0.42
+   ],
+   [
+    "S18+14",
+    "pop",
+    0.3
+   ],
+   [
+    "S19+28",
+    "unpause",
+    0.5
+   ],
+   [
+    "S19+42",
+    "cookie_crunch",
+    0.38
+   ],
+   [
+    "S20+2",
+    "gasp",
+    0.15
+   ],
+   [
+    "S20+6",
+    "freeze",
+    0.42
+   ],
+   [
+    "S20",
+    "room_tone",
+    0.2,
+    "onset",
+    "S24"
+   ],
+   [
+    "S21+20",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S22+20",
+    "catch",
+    0.34
+   ],
+   [
+    "S22+26",
+    "unpause",
+    0.5
+   ],
+   [
+    "S24+2",
+    "drone_hit",
+    0.34,
+    "peak"
+   ],
+   [
+    "S24+30",
+    "switch_off",
+    0.3
+   ],
+   [
+    "S24+52",
+    "switch_off",
+    0.22
+   ],
+   [
+    "S26+12",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S29+26",
+    "sparkle",
+    0.35
+   ],
+   [
+    "S30+2",
+    "power_hum",
+    0.13,
+    "onset",
+    "S42"
+   ],
+   [
+    "S31+28",
+    "big_step",
+    0.32
+   ],
+   [
+    "S32+22",
+    "big_step",
+    0.28
+   ],
+   [
+    "S33+8",
+    "big_step",
+    0.26
+   ],
+   [
+    "S34+18",
+    "counter_tick",
+    0.35
+   ],
+   [
+    "S34+40",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "S34+62",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "S34+84",
+    "counter_tick",
+    0.28
+   ],
+   [
+    "S35+28",
+    "freeze",
+    0.5,
+    "peak"
+   ],
+   [
+    "S42+6",
+    "gasp",
+    0.44
+   ],
+   [
+    "S43+4",
+    "pop",
+    0.5
+   ],
+   [
+    "S43+30",
+    "switch_off",
+    0.3
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "until": "S10"
+  },
+  "levels": {
+   "sfx_lu": -4.0,
+   "music_lu": -9.5
+  }
+ }
+}

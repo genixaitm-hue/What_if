@@ -1,0 +1,17 @@
+{
+ "episode": "ShowerEn",
+ "file": "/home/mji01/Documents/works-place/what-if-studio/out/showeren/showeren-final.mp4",
+ "seconds": 32.5,
+ "lufs": -14.1,
+ "true_peak_dbtp": -1.47,
+ "segments": 14,
+ "cuts_per_min": 24.0,
+ "elevenlabs_credits": 514,
+ "cost_lines": [
+  {
+   "step": "voice",
+   "credits": 514,
+   "note": "514 characters"
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "slug": "shelter",
+ "title": "NUCLEAR SHELTER?",
+ "fps": 30,
+ "total": 892,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 60,
+   "t0": 0,
+   "t1": 60,
+   "line": "تخيل: حفرة، ملجأ نووي!"
+  },
+  {
+   "shot": "S2",
+   "a": 60,
+   "b": 126,
+   "t0": 0,
+   "t1": 66,
+   "line": "لكن تحت الأرض، ليست كل الأخطار متساوية."
+  },
+  {
+   "shot": "S3",
+   "a": 126,
+   "b": 249,
+   "t0": 0,
+   "t1": 123,
+   "line": "انفجار: ضغط، حرارة، غبار مشع. تحت الأرض يخفف، لا يلغي."
+  },
+  {
+   "shot": "S4",
+   "a": 249,
+   "b": 325,
+   "t0": 0,
+   "t1": 76,
+   "line": "الأول: المسافة. أبعد، ضغط أقل."
+  },
+  {
+   "shot": "S5",
+   "a": 325,
+   "b": 418,
+   "t0": 0,
+   "t1": 93,
+   "line": "الثاني: الكتلة. تراب وخرسانة بينك والإشعاع."
+  },
+  {
+   "shot": "S6",
+   "a": 418,
+   "b": 512,
+   "t0": 0,
+   "t1": 94,
+   "line": "الثالث: المدخل. دورتان، الإشعاع يتشتت."
+  },
+  {
+   "shot": "S7",
+   "a": 512,
+   "b": 617,
+   "t0": 0,
+   "t1": 105,
+   "line": "الرابع: التهوية. فلترة، وبدونها اختناق."
+  },
+  {
+   "shot": "S8",
+   "a": 617,
+   "b": 742,
+   "t0": 0,
+   "t1": 125,
+   "line": "الخامس: الوقت. 24 ساعة، 80% يضمحل."
+  },
+  {
+   "shot": "S9",
+   "a": 742,
+   "b": 892,
+   "t0": 0,
+   "t1": 150,
+   "line": "الخلاصة: تحت الأرض يخفف، لا يضمن. ادخل، ابقَ، تابع."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 12,
+   "len": 60,
+   "first": 0,
+   "line": "تخيل: حفرة، ملجأ نووي!",
+   "note": "hook: character digs, title burst"
+  },
+  {
+   "id": "S2",
+   "size": "cutaway",
+   "key": 15,
+   "len": 66,
+   "first": 60,
+   "line": "لكن تحت الأرض، ليست كل الأخطار متساوية.",
+   "note": "hole becomes shelter, cutaway ground"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 18,
+   "len": 123,
+   "first": 126,
+   "line": "انفجار: ضغط، حرارة، غبار مشع. تحت الأرض يخفف، لا يلغي.",
+   "note": "blast rings, heat flash, character reacts"
+  },
+  {
+   "id": "S4",
+   "size": "diagram",
+   "key": 15,
+   "len": 76,
+   "first": 249,
+   "line": "الأول: المسافة. أبعد، ضغط أقل.",
+   "note": "blast radius vs shelter, distance principle"
+  },
+  {
+   "id": "S5",
+   "size": "diagram",
+   "key": 15,
+   "len": 93,
+   "first": 325,
+   "line": "الثاني: الكتلة. تراب وخرسانة بينك والإشعاع.",
+   "note": "mass/shielding, earth cover, arrows blocked"
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "key": 15,
+   "len": 94,
+   "first": 418,
+   "line": "الثالث: المدخل. دورتان، الإشعاع يتشتت.",
+   "note": "protected entrance, two right-angle turns"
+  },
+  {
+   "id": "S7",
+   "size": "diagram",
+   "key": 15,
+   "len": 105,
+   "first": 512,
+   "line": "الرابع: التهوية. فلترة، وبدونها اختناق.",
+   "note": "ventilation filtration, air flow particles"
+  },
+  {
+   "id": "S8",
+   "size": "diagram",
+   "key": 15,
+   "len": 125,
+   "first": 617,
+   "line": "الخامس: الوقت. 24 ساعة، 80% يضمحل.",
+   "note": "supplies + 24h decay curve"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 15,
+   "len": 150,
+   "first": 742,
+   "line": "الخلاصة: تحت الأرض يخفف، لا يضمن. ادخل، ابقَ، تابع.",
+   "note": "conclusion: no improvised shelter guarantees survival"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.3873,
+  "musicVol": 0.1225,
+  "voice": "shelter/voice.wav",
+  "sfx": "shelter/sfx.wav",
+  "music": "shelter/music.wav"
+ }
+}

@@ -1,0 +1,89 @@
+{
+  "voice": "TX3LPaxmHKxFdv7VOQHJ",
+  "model": "eleven_multilingual_v2",
+  "language": "ar",
+  "dialect": "Levantine (conversational)",
+  "segments": [
+    {
+      "segment_id": "S1",
+      "start_time": 0.0,
+      "end_time": 2.032,
+      "arabic_text": "تخيل: حفرة، ملجأ نووي!",
+      "emotion": "curious",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 2.032
+    },
+    {
+      "segment_id": "S2",
+      "start_time": 2.322,
+      "end_time": 4.528,
+      "arabic_text": "لكن تحت الأرض، ليست كل الأخطار متساوية.",
+      "emotion": "serious",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 2.206
+    },
+    {
+      "segment_id": "S3",
+      "start_time": 4.667,
+      "end_time": 8.336,
+      "arabic_text": "انفجار: ضغط، حرارة، غبار مشع. تحت الأرض يخفف، لا يلغي.",
+      "emotion": "urgent",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 3.669
+    },
+    {
+      "segment_id": "S4",
+      "start_time": 8.371,
+      "end_time": 10.913,
+      "arabic_text": "الأول: المسافة. أبعد، ضغط أقل.",
+      "emotion": "calm",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 2.542
+    },
+    {
+      "segment_id": "S5",
+      "start_time": 10.983,
+      "end_time": 14.362,
+      "arabic_text": "الثاني: الكتلة. تراب وخرسانة بينك والإشعاع.",
+      "emotion": "calm",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 3.379
+    },
+    {
+      "segment_id": "S6",
+      "start_time": 14.733,
+      "end_time": 17.252,
+      "arabic_text": "الثالث: المدخل. دورتان، الإشعاع يتشتت.",
+      "emotion": "calm",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 2.519
+    },
+    {
+      "segment_id": "S7",
+      "start_time": 17.334,
+      "end_time": 20.666,
+      "arabic_text": "الرابع: التهوية. فلترة، وبدونها اختناق.",
+      "emotion": "calm",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 3.332
+    },
+    {
+      "segment_id": "S8",
+      "start_time": 20.759,
+      "end_time": 24.067,
+      "arabic_text": "الخامس: الوقت. 24 ساعة، 80% يضمحل.",
+      "emotion": "hopeful",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 3.308
+    },
+    {
+      "segment_id": "S9",
+      "start_time": 24.845,
+      "end_time": 29.838,
+      "arabic_text": "الخلاصة: تحت الأرض يخفف، لا يضمن. ادخل، ابقَ، تابع.",
+      "emotion": "serious",
+      "delivery_style": "conversational Levantine Arabic, moderate pace",
+      "estimated_duration": 4.993
+    }
+  ]
+}

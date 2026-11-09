@@ -1,0 +1,294 @@
+{
+ "id": "Shelter",
+ "slug": "shelter",
+ "topic": "What happens if you try to build a nuclear shelter underground?",
+ "title": [
+  "NUCLEAR",
+  "SHELTER?"
+ ],
+ "accent": "#2EC4B6",
+ "power": "pause",
+ "voice": {
+  "id": "TX3LPaxmHKxFdv7VOQHJ",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+   "stability": 0.45,
+   "similarity_boost": 0.8,
+   "style": 0.3,
+   "use_speaker_boost": true
+  }
+ },
+ "script": [
+  {
+   "beat": "hook",
+   "shot": "S1",
+   "text": "تخيل: حفرة، ملجأ نووي!"
+  },
+  {
+   "beat": "setup",
+   "shot": "S2",
+   "text": "لكن تحت الأرض، ليست كل الأخطار متساوية."
+  },
+  {
+   "beat": "turn",
+   "shot": "S3",
+   "text": "انفجار: ضغط، حرارة، غبار مشع. تحت الأرض يخفف، لا يلغي."
+  },
+  {
+   "beat": "principle1",
+   "shot": "S4",
+   "text": "الأول: المسافة. أبعد، ضغط أقل."
+  },
+  {
+   "beat": "principle2",
+   "shot": "S5",
+   "text": "الثاني: الكتلة. تراب وخرسانة بينك والإشعاع."
+  },
+  {
+   "beat": "principle3",
+   "shot": "S6",
+   "text": "الثالث: المدخل. دورتان، الإشعاع يتشتت."
+  },
+  {
+   "beat": "principle4",
+   "shot": "S7",
+   "text": "الرابع: التهوية. فلترة، وبدونها اختناق."
+  },
+  {
+   "beat": "principle5",
+   "shot": "S8",
+   "text": "الخامس: الوقت. 24 ساعة، 80% يضمحل."
+  },
+  {
+   "beat": "conclusion",
+   "shot": "S9",
+   "text": "الخلاصة: تحت الأرض يخفف، لا يضمن. ادخل، ابقَ، تابع."
+  }
+ ],
+ "science": [
+  {
+   "claim": "A nuclear detonation produces three distinct hazards: blast pressure/wind, thermal radiation, and radioactive fallout.",
+   "source": "Ready.gov / CDC / FEMA",
+   "verified": true
+  },
+  {
+   "claim": "Fallout consists of radioactive particles (sand-like dust) sucked up by a ground burst; it arrives ~10-15 minutes after detonation and can extend 10-20 miles.",
+   "source": "FEMA Buddemeier / ICRP",
+   "verified": true
+  },
+  {
+   "claim": "Underground/basement sheltering with mass between you and outside reduces fallout exposure significantly (protection factors up to ~200 for center of large buildings).",
+   "source": "ICRP / ORAU civil-defense",
+   "verified": true
+  },
+  {
+   "claim": "Radiation decays rapidly: over 80% of fallout energy released within the first 24 hours.",
+   "source": "FEMA Buddemeier",
+   "verified": true
+  },
+  {
+   "claim": "Ventilation matters: a sealed shelter risks hazardous air; mechanical ventilation at ~5 cfm/person is desirable; fuel-burning devices should be avoided.",
+   "source": "ORAU TB-5-3",
+   "verified": true
+  },
+  {
+   "claim": "Entranceways should force radiation to make at least two right-angle turns to scatter intensity.",
+   "source": "ORAU TB-5-3",
+   "verified": true
+  },
+  {
+   "claim": "No improvised shelter guarantees survival in a nuclear explosion.",
+   "source": "Ready.gov / CDC",
+   "verified": true
+  }
+ ],
+ "cast": [
+  "pipHood"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "surface",
+   "key": 12,
+   "note": "hook: character digs, title burst"
+  },
+  {
+   "id": "S2",
+   "size": "cutaway",
+   "set": "underground",
+   "key": 15,
+   "note": "hole becomes shelter, cutaway ground"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "blast",
+   "key": 18,
+   "note": "blast rings, heat flash, character reacts"
+  },
+  {
+   "id": "S4",
+   "size": "diagram",
+   "set": "distance",
+   "key": 15,
+   "note": "blast radius vs shelter, distance principle"
+  },
+  {
+   "id": "S5",
+   "size": "diagram",
+   "set": "mass",
+   "key": 15,
+   "note": "mass/shielding, earth cover, arrows blocked"
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "set": "entrance",
+   "key": 15,
+   "note": "protected entrance, two right-angle turns"
+  },
+  {
+   "id": "S7",
+   "size": "diagram",
+   "set": "ventilation",
+   "key": 15,
+   "note": "ventilation filtration, air flow particles"
+  },
+  {
+   "id": "S8",
+   "size": "diagram",
+   "set": "time",
+   "key": 15,
+   "note": "supplies + 24h decay curve"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "conclusion",
+   "key": 15,
+   "note": "conclusion: no improvised shelter guarantees survival"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "تخيل"
+  },
+  {
+   "shot": "S2",
+   "at": "لكن"
+  },
+  {
+   "shot": "S3",
+   "at": "انفجار"
+  },
+  {
+   "shot": "S4",
+   "at": "الأول"
+  },
+  {
+   "shot": "S5",
+   "at": "الثاني"
+  },
+  {
+   "shot": "S6",
+   "at": "الثالث"
+  },
+  {
+   "shot": "S7",
+   "at": "الرابع"
+  },
+  {
+   "shot": "S8",
+   "at": "الخامس"
+  },
+  {
+   "shot": "S9",
+   "at": "الخلاصة"
+  }
+ ],
+ "fx": {},
+ "gaps": {},
+ "tail": 0.8,
+ "fps": 30,
+ "sound": {
+  "clips": {
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ]
+  },
+  "events": [
+   [
+    "S1+2",
+    "step",
+    0.3
+   ],
+   [
+    "S3+2",
+    "title_boom",
+    0.6,
+    "peak"
+   ],
+   [
+    "S4+2",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S5+2",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S6+2",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S7+2",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S8+2",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S9+4",
+    "pop",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "until": "S4"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -9.5
+  }
+ }
+}

@@ -1,0 +1,288 @@
+{
+ "slug": "shower",
+ "title": "ماذا لو كان لدشك نشرة طقس؟",
+ "fps": 30,
+ "total": 985,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 24,
+   "t0": 0,
+   "t1": 24,
+   "line": "الجليد."
+  },
+  {
+   "shot": "S2",
+   "a": 24,
+   "b": 46,
+   "t0": 0,
+   "t1": 22,
+   "line": "الفرن."
+  },
+  {
+   "shot": "S3",
+   "a": 46,
+   "b": 77,
+   "t0": 0,
+   "t1": 31,
+   "line": "الاثنان معا."
+  },
+  {
+   "shot": "S4",
+   "a": 77,
+   "b": 134,
+   "t0": 0,
+   "t1": 57,
+   "line": "هكذا يستحم الناس كل يوم."
+  },
+  {
+   "shot": "S5",
+   "a": 134,
+   "b": 183,
+   "t0": 0,
+   "t1": 49,
+   "line": "ماذا لو كان لدشك نشرة طقس؟"
+  },
+  {
+   "shot": "S6",
+   "a": 183,
+   "b": 234,
+   "t0": 0,
+   "t1": 51,
+   "line": "تتفقدها قبل أن تدخل."
+  },
+  {
+   "shot": "S7",
+   "a": 234,
+   "b": 420,
+   "t0": 0,
+   "t1": 186,
+   "line": "تنظر إلى النشرة. تختار الوقت الآمن. تدخل وأنت مرتاح. بينما يرتعش جارك من البرد."
+  },
+  {
+   "shot": "S8",
+   "a": 420,
+   "b": 644,
+   "t0": 0,
+   "t1": 224,
+   "line": "لكن الحقيقة: الماء عند ستين درجة. يحرق الجلد في ثلاث ثوان. ويزداد سوءا حين يفتح جار صنبورا"
+  },
+  {
+   "shot": "S9",
+   "a": 644,
+   "b": 670,
+   "t0": 0,
+   "t1": 26,
+   "line": "في المبنى."
+  },
+  {
+   "shot": "S10",
+   "a": 670,
+   "b": 752,
+   "t0": 0,
+   "t1": 82,
+   "line": "وفجأة يفتح رجل بالبدلة صنبورا."
+  },
+  {
+   "shot": "S11",
+   "a": 752,
+   "b": 826,
+   "t0": 0,
+   "t1": 74,
+   "line": "تتغير النشرة في ثانية واحدة."
+  },
+  {
+   "shot": "S12",
+   "a": 826,
+   "b": 884,
+   "t0": 0,
+   "t1": 58,
+   "line": "أختي تنتظر خارج الباب."
+  },
+  {
+   "shot": "S13",
+   "a": 884,
+   "b": 923,
+   "t0": 0,
+   "t1": 39,
+   "line": "فمن سيفتح صنبورك؟"
+  },
+  {
+   "shot": "S14",
+   "a": 923,
+   "b": 985,
+   "t0": 0,
+   "t1": 62,
+   "line": "الجزء الأول."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "macro insert",
+   "key": 10,
+   "len": 24,
+   "first": 0,
+   "line": "الجليد.",
+   "note": "ice cubes raining out of the showerhead"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 16,
+   "len": 22,
+   "first": 24,
+   "line": "الفرن.",
+   "note": "steam blast, Pip dancing under it"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 18,
+   "len": 31,
+   "first": 46,
+   "line": "الاثنان معا.",
+   "note": "cold-hot flip flop dance, shiver then hop"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 14,
+   "len": 57,
+   "first": 77,
+   "line": "هكذا يستحم الناس كل يوم.",
+   "note": "Pip before the shower glass, nervous, morning light"
+  },
+  {
+   "id": "S5",
+   "size": "title, wide",
+   "key": 40,
+   "len": 49,
+   "first": 134,
+   "line": "ماذا لو كان لدشك نشرة طقس؟",
+   "note": "the Arabic title card over the bathroom"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 16,
+   "len": 51,
+   "first": 183,
+   "line": "تتفقدها قبل أن تدخل.",
+   "note": "Pip checking the forecast dial beside the door"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 186,
+   "first": 234,
+   "line": "تنظر إلى النشرة. تختار الوقت الآمن. تدخل وأنت مرتاح. بينما يرتعش جارك من البرد.",
+   "note": "warm calm shower, neighbor shivering outside the door"
+  },
+  {
+   "id": "S8",
+   "size": "macro insert",
+   "key": 26,
+   "len": 224,
+   "first": 420,
+   "line": "لكن الحقيقة: الماء عند ستين درجة. يحرق الجلد في ثلاث ثوان. ويزداد سوءا حين يفتح جار صنبورا",
+   "note": "thermometer at 60 degrees, three-second countdown"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 22,
+   "len": 26,
+   "first": 644,
+   "line": "في المبنى.",
+   "note": "a neighbor tap opening elsewhere in the building, pressure dropping"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 20,
+   "len": 82,
+   "first": 670,
+   "line": "وفجأة يفتح رجل بالبدلة صنبورا.",
+   "note": "the man in the suit by the pipes, opening a tap"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 24,
+   "len": 74,
+   "first": 752,
+   "line": "تتغير النشرة في ثانية واحدة.",
+   "note": "the forecast chip flips to red, Pip's face under scalding water"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 20,
+   "len": 58,
+   "first": 826,
+   "line": "أختي تنتظر خارج الباب.",
+   "note": "sister waiting outside the door with a towel"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 22,
+   "len": 39,
+   "first": 884,
+   "line": "فمن سيفتح صنبورك؟",
+   "note": "the forecast chip flips to red danger"
+  },
+  {
+   "id": "S14",
+   "size": "end card",
+   "key": 40,
+   "len": 62,
+   "first": 923,
+   "line": "الجزء الأول.",
+   "note": "الجزء الأول, the pause-like icon ticking"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5,
+   "f": 0
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE3C2",
+   "o": 0.5,
+   "f": 24
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.6,
+   "f": 134
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.35,
+   "f": 420
+  },
+  {
+   "kind": "shake",
+   "len": 12,
+   "amp": 14,
+   "f": 752
+  }
+ ],
+ "audio": {
+  "voice": "shower/voice.wav",
+  "sfx": "shower/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2806,
+  "music": "shower/music.wav",
+  "musicVol": 0.0996
+ }
+}

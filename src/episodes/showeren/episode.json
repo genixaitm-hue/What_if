@@ -1,0 +1,462 @@
+{
+ "id": "ShowerEn",
+ "slug": "showeren",
+ "topic": "What if your shower had a weather forecast?",
+ "title": [
+  "WHAT IF YOUR SHOWER",
+  "HAD A FORECAST?"
+ ],
+ "power": {
+  "word": "Forecast",
+  "rule": "the shower shows a water-temperature forecast before you get in — ice, oven, or both at once",
+  "look": "a calm forecast dial in the corner, flipping to a red danger chip when the pressure drops"
+ },
+ "voice": {
+  "id": "TX3LPaxmHKxFdv7VOQHJ",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+   "stability": 0.4,
+   "similarity_boost": 0.8,
+   "style": 0.35,
+   "use_speaker_boost": true
+  }
+ },
+ "script": [
+  {
+   "beat": "1 cold open, demo 1 (ice)",
+   "text": "Ice."
+  },
+  {
+   "beat": "1 cold open, demo 2 (oven)",
+   "text": "The oven."
+  },
+  {
+   "beat": "1 cold open, demo 3 (both at once)",
+   "text": "Both at once."
+  },
+  {
+   "beat": "1 cold open, the everyday pain",
+   "text": "That's how people shower every day."
+  },
+  {
+   "beat": "2 the premise (title card)",
+   "text": "What if your shower had a weather forecast?"
+  },
+  {
+   "beat": "2 the rule",
+   "text": "You check it before you get in."
+  },
+  {
+   "beat": "3 the fun part, win 1",
+   "text": "You look at the forecast."
+  },
+  {
+   "beat": "3 the fun part, win 2",
+   "text": "You pick the safe time."
+  },
+  {
+   "beat": "3 the fun part, win 3",
+   "text": "You get in relaxed."
+  },
+  {
+   "beat": "3 the fun part, closer",
+   "text": "While your neighbor shivers from the cold."
+  },
+  {
+   "beat": "4 the not-so-fun part: the cost, one real fact",
+   "text": "But the truth: water at sixty degrees."
+  },
+  {
+   "beat": "4 the fact",
+   "text": "Burns skin in three seconds."
+  },
+  {
+   "beat": "4 the consequence",
+   "text": "And worse when a neighbor opens a tap in the building."
+  },
+  {
+   "beat": "5 someone powerful notices",
+   "text": "Then a man in a suit opens one."
+  },
+  {
+   "beat": "5 it ruins the forecast",
+   "text": "The forecast changes in a second."
+  },
+  {
+   "beat": "6 family at stake",
+   "text": "My sister waits outside the door."
+  },
+  {
+   "beat": "7 the cliffhanger",
+   "text": "So who will turn on your tap? Part 1."
+  }
+ ],
+ "science": [
+  {
+   "claim": "الماء عند 60 درجة مئوية يحرق الجلد في نحو ثلاث ثوان.",
+   "working": "البيانات المعيارية للحروق (Moritz and Henriques 1947) تظهر أن الماء بدرجة 60 مئوية (140 فهرنهايت) يسبب حرقا من الدرجة الثالثة خلال نحو 3 ثوان لدى البالغين، وأسرع لدى الأطفال. لهذا توصي لجنة سلامة المستهلك الأمريكية بضبط سخان الماء على 120 فهرنهايت (49 مئوية).",
+   "source": "U.S. Consumer Product Safety Commission scald prevention guidance; Moritz & Henriques burn threshold data"
+  }
+ ],
+ "cast": [
+  "pipHood",
+  "mo",
+  "sis",
+  "suit"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "macro insert",
+   "set": "bathroom (showerhead)",
+   "key": 10,
+   "note": "ice cubes raining out of the showerhead"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "bathroom",
+   "key": 16,
+   "note": "steam blast, Pip dancing under it"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "bathroom",
+   "key": 18,
+   "note": "cold-hot flip flop dance, shiver then hop"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "bathroom",
+   "key": 14,
+   "note": "Pip before the shower glass, nervous, morning light"
+  },
+  {
+   "id": "S5",
+   "size": "title, wide",
+   "set": "bathroom",
+   "key": 40,
+   "note": "the Arabic title card over the bathroom"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "bathroom (wall dial)",
+   "key": 16,
+   "note": "Pip checking the forecast dial beside the door"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "bathroom",
+   "key": 30,
+   "note": "warm calm shower, neighbor shivering outside the door"
+  },
+  {
+   "id": "S8",
+   "size": "macro insert",
+   "set": "bathroom (thermometer)",
+   "key": 26,
+   "note": "thermometer at 60 degrees, three-second countdown"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "set": "bathroom (pipes)",
+   "key": 22,
+   "note": "a neighbor tap opening elsewhere in the building, pressure dropping"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "bathroom (pipes)",
+   "key": 20,
+   "note": "the man in the suit by the pipes, opening a tap"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "bathroom (door)",
+   "key": 24,
+   "note": "the forecast chip flips to red, Pip's face under scalding water"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "bathroom",
+   "key": 20,
+   "note": "sister waiting outside the door with a towel"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "bathroom",
+   "key": 22,
+   "note": "the forecast chip flips to red danger"
+  },
+  {
+   "id": "S14",
+   "size": "end card",
+   "set": "black",
+   "key": 40,
+   "note": "الجزء الأول, the pause-like icon ticking"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "oven"
+  },
+  {
+   "shot": "S3",
+   "at": "Both"
+  },
+  {
+   "shot": "S4",
+   "at": "That's"
+  },
+  {
+   "shot": "S5",
+   "at": "What"
+  },
+  {
+   "shot": "S6",
+   "at": "check"
+  },
+  {
+   "shot": "S7",
+   "at": "look"
+  },
+  {
+   "shot": "S8",
+   "at": "truth"
+  },
+  {
+   "shot": "S9",
+   "at": "building"
+  },
+  {
+   "shot": "S10",
+   "at": "suit"
+  },
+  {
+   "shot": "S11",
+   "at": "changes"
+  },
+  {
+   "shot": "S12",
+   "at": "sister"
+  },
+  {
+   "shot": "S13",
+   "at": "So"
+  },
+  {
+   "shot": "S14",
+   "at": "Part"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S1+0",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5
+  },
+  {
+   "at": "S2+0",
+   "kind": "flash",
+   "color": "#FFE3C2",
+   "o": 0.5
+  },
+  {
+   "at": "S5+0",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.6
+  },
+  {
+   "at": "S8+0",
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.35
+  },
+  {
+   "at": "S11+0",
+   "kind": "shake",
+   "len": 12,
+   "amp": 14
+  }
+ ],
+ "gaps": {
+  "word": 0.12,
+  "comma": 0.2,
+  "sentence": 0.42,
+  "question": 0.6,
+  "pairs": {
+   "day|What": 0.55,
+   "forecast|You": 0.4,
+   "cold|But": 0.5,
+   "seconds|And": 0.4,
+   "building|Then": 0.45,
+   "degrees|Burns": 0.35,
+   "second|My": 0.45
+  }
+ },
+ "tail": 1.2,
+ "fps": 30,
+ "sound": {
+  "clips": {
+   "shower_water": [
+    "a shower running, steady water spray hitting tiles, close and clear, no voices",
+    3.0
+   ],
+   "steam_hiss": [
+    "a burst of steam hissing out fast, hot vapor under pressure, short, no voices",
+    1.0
+   ],
+   "ice_clink": [
+    "ice cubes rattling and clinking as they fall, cold and sharp, short, no voices",
+    0.8
+   ],
+   "knock": [
+    "a wooden door knock, two knocks, short, no voices",
+    0.6
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ]
+  },
+  "events": [
+   [
+    "S1+2",
+    "room_tone",
+    0.16,
+    "onset",
+    "S2"
+   ],
+   [
+    "S1+3",
+    "ice_clink",
+    0.45
+   ],
+   [
+    "S2+3",
+    "steam_hiss",
+    0.5
+   ],
+   [
+    "S3+10",
+    "steam_hiss",
+    0.35
+   ],
+   [
+    "S5+2",
+    "title_boom",
+    0.75,
+    "peak"
+   ],
+   [
+    "S6+8",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S7+2",
+    "shower_water",
+    0.3,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+10",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S9+8",
+    "switch_off",
+    0.4
+   ],
+   [
+    "S10+4",
+    "switch_off",
+    0.35
+   ],
+   [
+    "S11+2",
+    "gasp",
+    0.5
+   ],
+   [
+    "S11+6",
+    "drone_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S12+10",
+    "knock",
+    0.4
+   ],
+   [
+    "S14+4",
+    "pop",
+    0.5
+   ],
+   [
+    "S14+30",
+    "switch_off",
+    0.3
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "until": "S5"
+  },
+  "levels": {
+   "sfx_lu": -4.0,
+   "music_lu": -9.5
+  }
+ },
+ "accent": "FORECAST"
+}

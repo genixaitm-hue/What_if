@@ -1,0 +1,22 @@
+{
+ "episode": "Pause",
+ "file": "/home/mji01/Documents/works-place/what-if-studio/out/pause/pause-final.mp4",
+ "seconds": 86.6,
+ "lufs": -14.2,
+ "true_peak_dbtp": -1.45,
+ "segments": 44,
+ "cuts_per_min": 29.8,
+ "elevenlabs_credits": 1323,
+ "cost_lines": [
+  {
+   "step": "voice",
+   "credits": 1306,
+   "note": "1306 characters"
+  },
+  {
+   "step": "sound",
+   "credits": 17,
+   "note": "2 clips, 1.7 s"
+  }
+ ]
+}

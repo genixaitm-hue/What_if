@@ -1,0 +1,288 @@
+{
+ "slug": "showeren",
+ "title": "WHAT IF YOUR SHOWER HAD A FORECAST?",
+ "fps": 30,
+ "total": 973,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 21,
+   "t0": 0,
+   "t1": 21,
+   "line": "Ice. The"
+  },
+  {
+   "shot": "S2",
+   "a": 21,
+   "b": 36,
+   "t0": 0,
+   "t1": 15,
+   "line": "oven."
+  },
+  {
+   "shot": "S3",
+   "a": 36,
+   "b": 71,
+   "t0": 0,
+   "t1": 35,
+   "line": "Both at once."
+  },
+  {
+   "shot": "S4",
+   "a": 71,
+   "b": 133,
+   "t0": 0,
+   "t1": 62,
+   "line": "That's how people shower every day."
+  },
+  {
+   "shot": "S5",
+   "a": 133,
+   "b": 202,
+   "t0": 0,
+   "t1": 69,
+   "line": "What if your shower had a weather forecast? You"
+  },
+  {
+   "shot": "S6",
+   "a": 202,
+   "b": 249,
+   "t0": 0,
+   "t1": 47,
+   "line": "check it before you get in. You"
+  },
+  {
+   "shot": "S7",
+   "a": 249,
+   "b": 449,
+   "t0": 0,
+   "t1": 200,
+   "line": "look at the forecast. You pick the safe time. You get in relaxed. While your neighbor shivers from the cold. But"
+  },
+  {
+   "shot": "S8",
+   "a": 449,
+   "b": 644,
+   "t0": 0,
+   "t1": 195,
+   "line": "the truth: water at sixty degrees. Burns skin in three seconds. And worse when a neighbor opens a tap in"
+  },
+  {
+   "shot": "S9",
+   "a": 644,
+   "b": 688,
+   "t0": 0,
+   "t1": 44,
+   "line": "the building. Then a man in"
+  },
+  {
+   "shot": "S10",
+   "a": 688,
+   "b": 750,
+   "t0": 0,
+   "t1": 62,
+   "line": "a suit opens one. The forecast"
+  },
+  {
+   "shot": "S11",
+   "a": 750,
+   "b": 798,
+   "t0": 0,
+   "t1": 48,
+   "line": "changes in a second. My"
+  },
+  {
+   "shot": "S12",
+   "a": 798,
+   "b": 853,
+   "t0": 0,
+   "t1": 55,
+   "line": "sister waits outside the door."
+  },
+  {
+   "shot": "S13",
+   "a": 853,
+   "b": 920,
+   "t0": 0,
+   "t1": 67,
+   "line": "So who will turn on your tap?"
+  },
+  {
+   "shot": "S14",
+   "a": 920,
+   "b": 973,
+   "t0": 0,
+   "t1": 53,
+   "line": "Part 1."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "macro insert",
+   "key": 10,
+   "len": 21,
+   "first": 0,
+   "line": "Ice. The",
+   "note": "ice cubes raining out of the showerhead"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 16,
+   "len": 15,
+   "first": 21,
+   "line": "oven.",
+   "note": "steam blast, Pip dancing under it"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 18,
+   "len": 35,
+   "first": 36,
+   "line": "Both at once.",
+   "note": "cold-hot flip flop dance, shiver then hop"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 14,
+   "len": 62,
+   "first": 71,
+   "line": "That's how people shower every day.",
+   "note": "Pip before the shower glass, nervous, morning light"
+  },
+  {
+   "id": "S5",
+   "size": "title, wide",
+   "key": 40,
+   "len": 69,
+   "first": 133,
+   "line": "What if your shower had a weather forecast? You",
+   "note": "the Arabic title card over the bathroom"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 16,
+   "len": 47,
+   "first": 202,
+   "line": "check it before you get in. You",
+   "note": "Pip checking the forecast dial beside the door"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 200,
+   "first": 249,
+   "line": "look at the forecast. You pick the safe time. You get in relaxed. While your neighbor shivers from the cold. But",
+   "note": "warm calm shower, neighbor shivering outside the door"
+  },
+  {
+   "id": "S8",
+   "size": "macro insert",
+   "key": 26,
+   "len": 195,
+   "first": 449,
+   "line": "the truth: water at sixty degrees. Burns skin in three seconds. And worse when a neighbor opens a tap in",
+   "note": "thermometer at 60 degrees, three-second countdown"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 22,
+   "len": 44,
+   "first": 644,
+   "line": "the building. Then a man in",
+   "note": "a neighbor tap opening elsewhere in the building, pressure dropping"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 20,
+   "len": 62,
+   "first": 688,
+   "line": "a suit opens one. The forecast",
+   "note": "the man in the suit by the pipes, opening a tap"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 24,
+   "len": 48,
+   "first": 750,
+   "line": "changes in a second. My",
+   "note": "the forecast chip flips to red, Pip's face under scalding water"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 20,
+   "len": 55,
+   "first": 798,
+   "line": "sister waits outside the door.",
+   "note": "sister waiting outside the door with a towel"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 22,
+   "len": 67,
+   "first": 853,
+   "line": "So who will turn on your tap?",
+   "note": "the forecast chip flips to red danger"
+  },
+  {
+   "id": "S14",
+   "size": "end card",
+   "key": 40,
+   "len": 53,
+   "first": 920,
+   "line": "Part 1.",
+   "note": "الجزء الأول, the pause-like icon ticking"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5,
+   "f": 0
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE3C2",
+   "o": 0.5,
+   "f": 21
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.6,
+   "f": 133
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.35,
+   "f": 449
+  },
+  {
+   "kind": "shake",
+   "len": 12,
+   "amp": 14,
+   "f": 750
+  }
+ ],
+ "audio": {
+  "voice": "showeren/voice.wav",
+  "sfx": "showeren/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3007,
+  "music": "showeren/music.wav",
+  "musicVol": 0.1079
+ }
+}

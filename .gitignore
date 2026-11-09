@@ -1,0 +1,6 @@
+node_modules/
+.env
+*-raw.mp4
+out/*/board/
+.remotion/
+.DS_Store

@@ -1,0 +1,22 @@
+{
+ "episode": "Shower",
+ "file": "/home/mji01/Documents/works-place/what-if-studio/out/shower/shower-final.mp4",
+ "seconds": 32.9,
+ "lufs": -14.2,
+ "true_peak_dbtp": -1.48,
+ "segments": 14,
+ "cuts_per_min": 23.8,
+ "elevenlabs_credits": 396,
+ "cost_lines": [
+  {
+   "step": "voice",
+   "credits": 396,
+   "note": "396 characters"
+  },
+  {
+   "step": "sound",
+   "credits": 0,
+   "note": "4 clips, 5.4 s; not all in the history or the counter yet, check the usage page"
+  }
+ ]
+}

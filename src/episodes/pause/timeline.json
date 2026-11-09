@@ -1,0 +1,856 @@
+{
+ "slug": "pause",
+ "title": "WHAT IF YOU COULD PAUSE EVERYONE BUT YOU?",
+ "fps": 30,
+ "total": 2594,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 29,
+   "t0": 0,
+   "t1": 29,
+   "line": "Dusk rain."
+  },
+  {
+   "shot": "S2",
+   "a": 29,
+   "b": 114,
+   "t0": 0,
+   "t1": 85,
+   "line": "Pause. Two hundred drops, frozen.",
+   "look": "pause"
+  },
+  {
+   "shot": "S3",
+   "a": 114,
+   "b": 147,
+   "t0": 0,
+   "t1": 33,
+   "line": "Walk them dry.",
+   "look": "pause"
+  },
+  {
+   "shot": "S4",
+   "a": 147,
+   "b": 191,
+   "t0": 0,
+   "t1": 44,
+   "line": "Football at your face."
+  },
+  {
+   "shot": "S5",
+   "a": 191,
+   "b": 219,
+   "t0": 0,
+   "t1": 28,
+   "line": "Pause.",
+   "look": "pause"
+  },
+  {
+   "shot": "S6",
+   "a": 219,
+   "b": 251,
+   "t0": 0,
+   "t1": 32,
+   "line": "Catch it slow.",
+   "look": "pause"
+  },
+  {
+   "shot": "S7",
+   "a": 251,
+   "b": 288,
+   "t0": 0,
+   "t1": 37,
+   "line": "Mo on his phone."
+  },
+  {
+   "shot": "S8",
+   "a": 288,
+   "b": 316,
+   "t0": 0,
+   "t1": 28,
+   "line": "Pause.",
+   "look": "pause"
+  },
+  {
+   "shot": "S9",
+   "a": 316,
+   "b": 384,
+   "t0": 0,
+   "t1": 68,
+   "line": "Steal his snack. He'll never know.",
+   "look": "pause"
+  },
+  {
+   "shot": "S10",
+   "a": 384,
+   "b": 440,
+   "t0": 0,
+   "t1": 56,
+   "line": "What if you could pause everyone but you?"
+  },
+  {
+   "shot": "S11",
+   "a": 440,
+   "b": 469,
+   "t0": 0,
+   "t1": 29,
+   "line": "One tap."
+  },
+  {
+   "shot": "S12",
+   "a": 469,
+   "b": 500,
+   "t0": 0,
+   "t1": 31,
+   "line": "Everyone stops,",
+   "look": "pause"
+  },
+  {
+   "shot": "S13",
+   "a": 500,
+   "b": 571,
+   "t0": 0,
+   "t1": 71,
+   "line": "mid- step, mid- laugh, mid- argument.",
+   "look": "pause"
+  },
+  {
+   "shot": "S14",
+   "a": 571,
+   "b": 656,
+   "t0": 0,
+   "t1": 85,
+   "line": "Except you. The test you didn't study for?",
+   "look": "pause"
+  },
+  {
+   "shot": "S15",
+   "a": 656,
+   "b": 684,
+   "t0": 0,
+   "t1": 28,
+   "line": "Pause.",
+   "look": "pause"
+  },
+  {
+   "shot": "S16",
+   "a": 684,
+   "b": 751,
+   "t0": 0,
+   "t1": 67,
+   "line": "Twenty minutes of thinking, one school second.",
+   "look": "pause"
+  },
+  {
+   "shot": "S17",
+   "a": 751,
+   "b": 808,
+   "t0": 0,
+   "t1": 57,
+   "line": "Mum, midsentence, finger up.",
+   "look": "pause"
+  },
+  {
+   "shot": "S18",
+   "a": 808,
+   "b": 835,
+   "t0": 0,
+   "t1": 27,
+   "line": "Grab the toast.",
+   "look": "pause"
+  },
+  {
+   "shot": "S19",
+   "a": 835,
+   "b": 893,
+   "t0": 0,
+   "t1": 58,
+   "line": "Unpause. Normal morning."
+  },
+  {
+   "shot": "S20",
+   "a": 893,
+   "b": 949,
+   "t0": 0,
+   "t1": 56,
+   "line": "Your sister's ice cream, mid- fall."
+  },
+  {
+   "shot": "S21",
+   "a": 949,
+   "b": 973,
+   "t0": 0,
+   "t1": 24,
+   "line": "Pause.",
+   "look": "pause"
+  },
+  {
+   "shot": "S22",
+   "a": 973,
+   "b": 1028,
+   "t0": 0,
+   "t1": 55,
+   "line": "Catch. Hand it back.",
+   "look": "pause"
+  },
+  {
+   "shot": "S23",
+   "a": 1028,
+   "b": 1093,
+   "t0": 0,
+   "t1": 65,
+   "line": "Her face: priceless.",
+   "look": "pause"
+  },
+  {
+   "shot": "S24",
+   "a": 1093,
+   "b": 1149,
+   "t0": 0,
+   "t1": 56,
+   "line": "The world runs on your clock now.",
+   "look": "pause"
+  },
+  {
+   "shot": "S25",
+   "a": 1149,
+   "b": 1214,
+   "t0": 0,
+   "t1": 65,
+   "line": "One catch: even light freezes.",
+   "look": "pause"
+  },
+  {
+   "shot": "S26",
+   "a": 1214,
+   "b": 1286,
+   "t0": 0,
+   "t1": 72,
+   "line": "Light crosses a room in ten nanoseconds."
+  },
+  {
+   "shot": "S27",
+   "a": 1286,
+   "b": 1441,
+   "t0": 0,
+   "t1": 155,
+   "line": "Paused there, it never lands. If your power took the light with everything else, you'd tap, and go blind."
+  },
+  {
+   "shot": "S28",
+   "a": 1441,
+   "b": 1472,
+   "t0": 0,
+   "t1": 31,
+   "line": "That's real."
+  },
+  {
+   "shot": "S29",
+   "a": 1472,
+   "b": 1599,
+   "t0": 0,
+   "t1": 127,
+   "line": "So your pause keeps one exception: light already inside your eyes."
+  },
+  {
+   "shot": "S30",
+   "a": 1599,
+   "b": 1654,
+   "t0": 0,
+   "t1": 55,
+   "line": "But your rule has a hole.",
+   "look": "pause"
+  },
+  {
+   "shot": "S31",
+   "a": 1654,
+   "b": 1733,
+   "t0": 0,
+   "t1": 79,
+   "line": "Yesterday, midpause, you weren't alone.",
+   "look": "pause"
+  },
+  {
+   "shot": "S32",
+   "a": 1733,
+   "b": 1812,
+   "t0": 0,
+   "t1": 79,
+   "line": "A charcoal suit walked between the frozen kids.",
+   "look": "pause"
+  },
+  {
+   "shot": "S33",
+   "a": 1812,
+   "b": 1889,
+   "t0": 0,
+   "t1": 77,
+   "line": "He stopped. He looked straight at you.",
+   "look": "pause"
+  },
+  {
+   "shot": "S34",
+   "a": 1889,
+   "b": 1994,
+   "t0": 0,
+   "t1": 105,
+   "line": "Then he checked a stopwatch— like he was timing your taps.",
+   "look": "pause"
+  },
+  {
+   "shot": "S35",
+   "a": 1994,
+   "b": 2020,
+   "t0": 0,
+   "t1": 26,
+   "line": "Today the corridor"
+  },
+  {
+   "shot": "S35",
+   "a": 2020,
+   "b": 2068,
+   "t0": 28,
+   "t1": 76,
+   "line": "pauses, like always.",
+   "look": "pause"
+  },
+  {
+   "shot": "S36",
+   "a": 2068,
+   "b": 2145,
+   "t0": 0,
+   "t1": 77,
+   "line": "You take your shortcut. Then you see him.",
+   "look": "pause"
+  },
+  {
+   "shot": "S37",
+   "a": 2145,
+   "b": 2190,
+   "t0": 0,
+   "t1": 45,
+   "line": "Standing at your sister.",
+   "look": "pause"
+  },
+  {
+   "shot": "S38",
+   "a": 2190,
+   "b": 2259,
+   "t0": 0,
+   "t1": 69,
+   "line": "Sis, mid- giggle, frozen.",
+   "look": "pause"
+  },
+  {
+   "shot": "S39",
+   "a": 2259,
+   "b": 2331,
+   "t0": 0,
+   "t1": 72,
+   "line": "His hand, two steps from her shoulder.",
+   "look": "pause"
+  },
+  {
+   "shot": "S40",
+   "a": 2331,
+   "b": 2365,
+   "t0": 0,
+   "t1": 34,
+   "line": "You can't run.",
+   "look": "pause"
+  },
+  {
+   "shot": "S41",
+   "a": 2365,
+   "b": 2461,
+   "t0": 0,
+   "t1": 96,
+   "line": "Unpause, and ten thousand people see him too.",
+   "look": "pause"
+  },
+  {
+   "shot": "S42",
+   "a": 2461,
+   "b": 2541,
+   "t0": 0,
+   "t1": 80,
+   "line": "So who else is walking around in your pause?",
+   "look": "pause"
+  },
+  {
+   "shot": "S43",
+   "a": 2541,
+   "b": 2594,
+   "t0": 0,
+   "t1": 53,
+   "line": "Part 1."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 12,
+   "len": 29,
+   "first": 0,
+   "line": "Dusk rain.",
+   "note": "dusk rain over the city, Pip hurries under his hoodie"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 8,
+   "len": 85,
+   "first": 29,
+   "line": "Pause. Two hundred drops, frozen.",
+   "note": "a drop hangs huge in the beam; the rain is frozen mid-air"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 14,
+   "len": 33,
+   "first": 114,
+   "line": "Walk them dry.",
+   "note": "he weaves between the hanging drops, dry; a drop passes his shoulder"
+  },
+  {
+   "id": "S4",
+   "size": "wide, low",
+   "key": 16,
+   "len": 44,
+   "first": 147,
+   "line": "Football at your face.",
+   "note": "the football flies at him down the stairs, thrown from above"
+  },
+  {
+   "id": "S5",
+   "size": "macro insert",
+   "key": 10,
+   "len": 28,
+   "first": 191,
+   "line": "Pause.",
+   "note": "the ball frozen a finger from his nose, his mitten rising"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 20,
+   "len": 32,
+   "first": 219,
+   "line": "Catch it slow.",
+   "note": "he takes the ball off the air slowly, smug"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 24,
+   "len": 37,
+   "first": 251,
+   "line": "Mo on his phone.",
+   "note": "Mo on the landing by the lit door, phone giggle, snack in hand"
+  },
+  {
+   "id": "S8",
+   "size": "macro insert",
+   "key": 12,
+   "len": 28,
+   "first": 288,
+   "line": "Pause.",
+   "note": "the snack slides out of Mo's frozen hand"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 24,
+   "len": 68,
+   "first": 316,
+   "line": "Steal his snack. He'll never know.",
+   "note": "Pip pockets it and walks past frozen Mo, glance at us"
+  },
+  {
+   "id": "S10",
+   "size": "title, wide",
+   "key": 44,
+   "len": 56,
+   "first": 384,
+   "line": "What if you could pause everyone but you?",
+   "note": "the premise over the city at dusk, a few drops still hung"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 20,
+   "len": 29,
+   "first": 440,
+   "line": "One tap.",
+   "note": "Pip mid-tap, the class milling behind him: two fingers, one press"
+  },
+  {
+   "id": "S12",
+   "size": "wide, flash freeze",
+   "key": 26,
+   "len": 31,
+   "first": 469,
+   "line": "Everyone stops,",
+   "note": "the class locks mid-motion: frozen papers, frozen laughter"
+  },
+  {
+   "id": "S13",
+   "size": "high angle wide",
+   "key": 30,
+   "len": 71,
+   "first": 500,
+   "line": "mid- step, mid- laugh, mid- argument.",
+   "note": "mid-step, mid-laugh, mid-argument: three frozen groups across the rows"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 85,
+   "first": 571,
+   "line": "Except you. The test you didn't study for?",
+   "note": "Pip strolls between them, unbothered, to his marked test"
+  },
+  {
+   "id": "S15",
+   "size": "top-down insert",
+   "key": 14,
+   "len": 28,
+   "first": 656,
+   "line": "Pause.",
+   "note": "the test tagged 3/20, the clock hand stopped mid-second"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 44,
+   "len": 67,
+   "first": 684,
+   "line": "Twenty minutes of thinking, one school second.",
+   "note": "twenty minutes inside one school second: he thinks, dust hangs"
+  },
+  {
+   "id": "S17",
+   "size": "medium two-shot",
+   "key": 24,
+   "len": 57,
+   "first": 751,
+   "line": "Mum, midsentence, finger up.",
+   "note": "mum frozen mid-scold, finger up; the toast leaps frozen from the toaster"
+  },
+  {
+   "id": "S18",
+   "size": "macro insert",
+   "key": 12,
+   "len": 27,
+   "first": 808,
+   "line": "Grab the toast.",
+   "note": "his mitten pinches the frozen toast slice out of the air"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "len": 58,
+   "first": 835,
+   "line": "Unpause. Normal morning.",
+   "note": "unpause: mum's finger finishes its wag, Pip strolls out munching"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 26,
+   "len": 56,
+   "first": 893,
+   "line": "Your sister's ice cream, mid- fall.",
+   "note": "sis gasps at her ice cream, the scoop tilting off the cone"
+  },
+  {
+   "id": "S21",
+   "size": "top-down macro insert",
+   "key": 10,
+   "len": 24,
+   "first": 949,
+   "line": "Pause.",
+   "note": "the scoop frozen a hand's width above the worktop"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 40,
+   "len": 55,
+   "first": 973,
+   "line": "Catch. Hand it back.",
+   "note": "he sets the scoop back, returns the cone, shrugs at us"
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "key": 30,
+   "len": 65,
+   "first": 1028,
+   "line": "Her face: priceless.",
+   "note": "sis, beaming up at the camera, ice cream safe"
+  },
+  {
+   "id": "S24",
+   "size": "wide, low angle",
+   "key": 40,
+   "len": 56,
+   "first": 1093,
+   "line": "The world runs on your clock now.",
+   "note": "the frozen city below: no bird, no blink, one string light mid-sway"
+  },
+  {
+   "id": "S25",
+   "size": "medium, slow push",
+   "key": 24,
+   "len": 65,
+   "first": 1149,
+   "line": "One catch: even light freezes.",
+   "note": "one catch: his smile drops, the light dims on his face"
+  },
+  {
+   "id": "S26",
+   "size": "schematic, side view",
+   "key": 50,
+   "len": 72,
+   "first": 1214,
+   "line": "Light crosses a room in ten nanoseconds.",
+   "note": "light crossing a 3 m room, 10 ns counting up"
+  },
+  {
+   "id": "S27",
+   "size": "schematic, macro on the ray",
+   "key": 90,
+   "len": 155,
+   "first": 1286,
+   "line": "Paused there, it never lands. If your power took the light with everything else, you'd tap, and go blind.",
+   "note": "paused there, it never lands; an eye icons and an X: blind"
+  },
+  {
+   "id": "S28",
+   "size": "extreme close-up, dark",
+   "key": 14,
+   "len": 31,
+   "first": 1441,
+   "line": "That's real.",
+   "note": "Pip's eyes in near dark: that's real"
+  },
+  {
+   "id": "S29",
+   "size": "schematic, eye panel",
+   "key": 80,
+   "len": 127,
+   "first": 1472,
+   "line": "So your pause keeps one exception: light already inside your eyes.",
+   "note": "the exception: light already inside your eyes, kept"
+  },
+  {
+   "id": "S30",
+   "size": "medium",
+   "key": 26,
+   "len": 55,
+   "first": 1599,
+   "line": "But your rule has a hole.",
+   "note": "a second figure mid-stride at the frame edge where nobody should move"
+  },
+  {
+   "id": "S31",
+   "size": "wide, high",
+   "key": 46,
+   "len": 79,
+   "first": 1654,
+   "line": "Yesterday, midpause, you weren't alone.",
+   "note": "yesterday: the frozen rows, and the charcoal suit walking between them"
+  },
+  {
+   "id": "S32",
+   "size": "medium",
+   "key": 40,
+   "len": 79,
+   "first": 1733,
+   "line": "A charcoal suit walked between the frozen kids.",
+   "note": "closer: the suit mid-stride, kids frozen either side"
+  },
+  {
+   "id": "S33",
+   "size": "close-up",
+   "key": 34,
+   "len": 77,
+   "first": 1812,
+   "line": "He stopped. He looked straight at you.",
+   "note": "his head turns, eyes straight at us"
+  },
+  {
+   "id": "S34",
+   "size": "macro insert",
+   "key": 30,
+   "len": 105,
+   "first": 1889,
+   "line": "Then he checked a stopwatch— like he was timing your taps.",
+   "note": "a stopwatch in a gloved hand, the needle ticking round"
+  },
+  {
+   "id": "S35",
+   "size": "medium",
+   "key": 26,
+   "len": 76,
+   "first": 1994,
+   "line": "Today the corridor",
+   "note": "today, sis waves at the door; the freeze lands mid-wave"
+  },
+  {
+   "id": "S36",
+   "size": "wide, camera follows",
+   "key": 50,
+   "len": 77,
+   "first": 2068,
+   "line": "You take your shortcut. Then you see him.",
+   "note": "his usual shortcut down the frozen aisle"
+  },
+  {
+   "id": "S37",
+   "size": "wide, deep, high",
+   "key": 60,
+   "len": 45,
+   "first": 2145,
+   "line": "Standing at your sister.",
+   "note": "far down the rows: the suit, standing at frozen sis"
+  },
+  {
+   "id": "S38",
+   "size": "close-up",
+   "key": 26,
+   "len": 69,
+   "first": 2190,
+   "line": "Sis, mid- giggle, frozen.",
+   "note": "sis, mid-giggle, frozen; nothing about her knows"
+  },
+  {
+   "id": "S39",
+   "size": "macro insert",
+   "key": 16,
+   "len": 72,
+   "first": 2259,
+   "line": "His hand, two steps from her shoulder.",
+   "note": "a gloved hand, two steps from her shoulder"
+  },
+  {
+   "id": "S40",
+   "size": "medium, low angle",
+   "key": 18,
+   "len": 34,
+   "first": 2331,
+   "line": "You can't run.",
+   "note": "Pip backed against the doorframe, eyes flick for a way out"
+  },
+  {
+   "id": "S41",
+   "size": "wide, flash",
+   "key": 34,
+   "len": 96,
+   "first": 2365,
+   "line": "Unpause, and ten thousand people see him too.",
+   "note": "he almost unpauses: a white flash over the frozen crowd, and he stays put"
+  },
+  {
+   "id": "S42",
+   "size": "extreme close-up, push in",
+   "key": 70,
+   "len": 80,
+   "first": 2461,
+   "line": "So who else is walking around in your pause?",
+   "note": "his eyes, the question landing: who else is in your pause?"
+  },
+  {
+   "id": "S43",
+   "size": "end card",
+   "key": 40,
+   "len": 53,
+   "first": 2541,
+   "line": "Part 1.",
+   "note": "PART 1, the pause icon ticking"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5,
+   "f": 29
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5,
+   "f": 191
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.45,
+   "f": 288
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.6,
+   "f": 384
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.55,
+   "f": 469
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.45,
+   "f": 656
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5,
+   "f": 949
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.3,
+   "f": 1149
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5,
+   "f": 2020
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.9,
+   "f": 2365
+  },
+  {
+   "kind": "shake",
+   "len": 12,
+   "amp": 14,
+   "f": 2365
+  }
+ ],
+ "audio": {
+  "voice": "pause/voice.wav",
+  "sfx": "pause/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3829,
+  "music": "pause/music.wav",
+  "musicVol": 0.117
+ }
+}
